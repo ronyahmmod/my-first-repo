@@ -3,3 +3,8 @@ Khulna
 Shatkhira
 Shylet
 Tongi
+Bogota,
+New York,
+Buffalo,
+Dhaka
+Chitagong
